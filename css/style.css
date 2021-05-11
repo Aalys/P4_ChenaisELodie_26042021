@@ -777,8 +777,11 @@ h4 {
 }
 
 .tc-white {
-    color: #f8a57e!important;
+    color: #f8b799!important;
     position: relative;
+}
+.shadow{
+    text-shadow: #3a271f 3px 3px 3px;
 }
 
 .btn-atomic-tangerine {
